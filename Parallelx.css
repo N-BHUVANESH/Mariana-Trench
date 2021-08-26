@@ -59,10 +59,7 @@ html{
 	background:#094b65;
 	color:#fff;
 }
-#use{
-	background:#18ccf0;
-	
-}
+
 section{
 	position:relative;
 	width:100%;
@@ -233,21 +230,17 @@ section #text span{
 }
 .endcard{
 	width:100%;
-	height:49vh;
+	height:51vh;
 	background:#7d4d00;
 }
 .endcard h1{
 	font-family: 'Nothing You Could Do', cursive;
-	position:absolute;
-	bottom:-21849px;
-	left:15%;
+	padding-left:10px;
 	color:#fff;
 }
 
 #heart{
-	position:absolute;
-	left:50%;
-	bottom:-21849px;
+	padding-left:750px;
 	color:#fff;
 	transition:all 0.3s ease-out;
 }
@@ -257,21 +250,17 @@ section #text span{
 	
 }
 .endcard p{
-	position:absolute;
-	bottom:-21890px;
-	left:43%;
+	padding-left:630px;
 	color:#fff;	
+	
 }
 .connect{
-	position:absolute;
-	left:75%;
-	
-	bottom:-21849px;
+	padding-left:665px;
 }
 .endcard i{
 	
 	font-size:40px;
-	letter-spacing:27px;
+	letter-spacing:17px;
 	color:#fff;
 }
 .endcard h2{
@@ -298,10 +287,8 @@ section #text span{
 }
 .vl {
   background: #fff;
-  width: 98%;
+  width: 100%;
   height:1px;
-  position:absolute;
-  bottom:-21769px;
-  left:1%;
+  
   
 }
